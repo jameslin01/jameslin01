@@ -1,4 +1,4 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/jameslin01">Mathematics Student</a>
+<h1>Hi, I'm James! <br/><a href="https://github.com/jameslin01">Mathematics BSc Student</a>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -18,10 +18,12 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 🤳 Connect with me:</h2>
+- 📫 How to reach me **arigatojames@gmail.com**
 
-
-[<img align="left" alt="JamesLin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jamesjl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamesjl/" height="30" width="40" /></a>
+</p>
 
 
 [linkedin]: https://linkedin.com/in/jamesjl/
