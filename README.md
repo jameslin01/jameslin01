@@ -1,4 +1,4 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/jameslin01">Mathematics BSc Student</a>
+<h1>Hi, I'm James! <br/><a href="https://github.com/jameslin01">Graduate Analyst</a>
 
 <h2>👨‍💻 Projects:</h2>
 
